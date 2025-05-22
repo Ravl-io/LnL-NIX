@@ -46,3 +46,5 @@ Check out the [Guide](guide.md) for a step-by-step guide on how to get started w
 - [NIXOS Wiki](https://nixos.wiki/)
 - [NIXOS Discourse](https://discourse.nixos.org/)
 - [NIXOS Reddit](https://www.reddit.com/r/NixOS/)
+- [Hosting private channels](https://discourse.nixos.org/t/hosting-a-binary-cache-on-artifactory/50326)
+- [NIX Priavte Channel Server](https://statics.teams.cdn.office.net/evergreen-assets/safelinks/1/atp-safelinks.html)
