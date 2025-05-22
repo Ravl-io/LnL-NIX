@@ -47,4 +47,6 @@ Check out the [Guide](guide.md) for a step-by-step guide on how to get started w
 - [NIXOS Discourse](https://discourse.nixos.org/)
 - [NIXOS Reddit](https://www.reddit.com/r/NixOS/)
 - [Hosting private channels](https://discourse.nixos.org/t/hosting-a-binary-cache-on-artifactory/50326)
-- [NIX Priavte Channel Server](https://statics.teams.cdn.office.net/evergreen-assets/safelinks/1/atp-safelinks.html)
+- [NIX Priavte Channel Binary Cache Server](https://statics.teams.cdn.office.net/evergreen-assets/safelinks/1/atp-safelinks.html)
+- [Setting up a binary cache server with Nexus](https://hunter.readthedocs.io/en/latest/user-guides/hunter-user/nexus-cache-server.html)
+- [Setting up a binary cache server with Artifactory](https://hunter.readthedocs.io/en/latest/user-guides/hunter-user/artifactory-cache-server.html)
